@@ -1,0 +1,13 @@
+# Ignorar node_modules
+node_modules/
+
+# Ignorar logs
+*.log
+
+# Ignorar a pasta cypress (se você quiser que ela seja ignorada, caso contrário, remova essa linha)
+# cypress
+
+# Ignorar arquivos do sistema
+.DS_Store
+Thumbs.db
+
